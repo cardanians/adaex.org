@@ -1,2 +1,5 @@
 # adaex.org
-adaex.org - api
+
+You can use json outputs from https://api.adaex.org as you wish.
+
+More info soon.
